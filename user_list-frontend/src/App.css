@@ -1,0 +1,19 @@
+.App-body {
+  margin: 4vh 2vw 4vh 2vw;
+}
+
+.Table {
+  table-layout: fixed;
+  width: 100%;
+}
+
+.Table,
+th,
+td {
+  border: 1px solid;
+}
+
+th,
+td {
+  padding: 8px;
+}

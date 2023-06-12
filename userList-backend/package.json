@@ -1,0 +1,21 @@
+{
+  "name": "userlist-backend",
+  "version": "0.0.1-a",
+  "description": "users list app backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test",
+    "lint": "eslint *.js"
+  },
+  "author": "LautaroLobo12",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.32.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
